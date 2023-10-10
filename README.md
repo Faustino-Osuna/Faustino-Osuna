@@ -1,2 +1,1 @@
-#Faustino Osuna
-##Programador FullStack
+# Desarrollador de Software FullStack
