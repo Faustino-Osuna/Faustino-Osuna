@@ -2,5 +2,5 @@
 
 **`Ingeniero en Desarrollo de Software`**
 
-Desarrollador full-stack en busqueda de oportunidades para mejorar y crece profesionalmente.
+Desarrollador full-stack en busqueda de oportunidades para mejorar y crece profesionalmente. </br>
 Dispuesto a enfrentar nuevos desafios y llevar proyectos web al siguiente nivel.
