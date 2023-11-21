@@ -1,1 +1,1 @@
-# Hola!, Soy Faustino Osuna 👋
+# Hola, Soy Faustino Osuna 👋
